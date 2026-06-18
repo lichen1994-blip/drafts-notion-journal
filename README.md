@@ -1,5 +1,7 @@
 # Drafts → Notion Journal
 
+[中文](README.md) | [English](README_EN.md)
+
 把 Drafts 中的随手记录完整归档到 Notion，并自动补充创建时间、地点和当时天气。
 
 同一个 Draft 重复执行时会更新原记录，不会制造重复页面。
