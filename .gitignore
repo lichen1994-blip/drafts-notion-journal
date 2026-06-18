@@ -1,0 +1,13 @@
+# 私人可运行版本，包含个人 Notion data source ID
+/outputs/
+
+# 多 agent 本地交接记录
+/PROGRESS.md
+
+# macOS
+.DS_Store
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
